@@ -1,0 +1,19 @@
+# Ignore compiled files
+*.dSYM/
+*.out
+*.exe
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore editor settings
+.vscode/
+
+# Ignore compiled binaries (no extension)
+2max
+2min
+min
+max
+array1
+insert_element
+test
