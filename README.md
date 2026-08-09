@@ -39,15 +39,12 @@ Whether you're a **student**, **self-learner**, or preparing for **coding interv
 - 📚 Stack  
 - 📥 Queue  
 - 🌳 Trees (Binary Tree, BST)  
-- 🗂 Hashing (Basics)
-
 ---
 
 ## 🔹 3. Algorithms
 - 🔎 Searching  
   - Linear Search  
   - Binary Search  
-
 - 🔄 Sorting  
   - Bubble Sort  
   - Selection Sort  
