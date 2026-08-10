@@ -1,7 +1,6 @@
 #include <stdio.h>
-
 int main() {
-    int arr[10] = {10, 20, 100, 40, 50}; 
+    int arr[10] = {10, 20,40, 50}; 
     int value,pos;
     printf("Enter element to delete \n");
     scanf("%d",&value);
