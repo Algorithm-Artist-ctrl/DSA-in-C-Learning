@@ -45,7 +45,6 @@ void display()
     else
     {
         temp = head;
-
         while(temp != NULL)
         {
             printf("%d ", temp->data);
