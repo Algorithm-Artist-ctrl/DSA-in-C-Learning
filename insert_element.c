@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int arr[10] = {10, 20, 40, 50}; 
+    int arr[10] = {10, 20,87,89 40, 50}; 
     int value,pos;
     printf("Enter value to insert an element \n");
     scanf("%d",&value);
