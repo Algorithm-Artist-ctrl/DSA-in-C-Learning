@@ -54,7 +54,7 @@ void display()
             count=count+1;
         }
     }
-    printf("Total No of Node are %d\n",&count);
+    printf("Total No of Node are %d\n",count);
 }
 
 void finsert(void)
